@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
+  <title>Richard's Favorite Places</title>
+
+<body>
+  <h1>My Favorite Places</h1>
+
+  <li><a href="https://en.wikipedia.org/wiki/Istanbul">Istanbul</a><br>
+    <img src="https://i.natgeofe.com/n/bd729afd-04b7-4589-b9cd-913449c48c6a/istanbul-travel_2x1.jpg">
+  </li>
+
+  <li>Donegal</br>
+    <img
+      src="https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/55752999-1876-4fa3-b489-c31ef5e2b8da/header-malin-head-donegal.jpg">
+  </li>
+
+  <li>Mt St. Michael<br>
+    <img
+      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/f9/aa/mont-saint-michel.jpg?w=700&h=500&s=1">
+  <li>
+
+    <h2>Places I Don't Like</h2>
+
+  <li>Texas</li>
+  <li>Barcelona</li>
+  <li>Boston</li>
+
+</body>
