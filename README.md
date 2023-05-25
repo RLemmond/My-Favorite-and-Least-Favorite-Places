@@ -1,34 +1,34 @@
-# My-First-Webpage2
-Pushed to GitHub
-# _My-First-Webpage2_
+# _Learning about AnnenMayKantereit_
 
 #### By _**Richard Lemmond**_
 
-#### _website created to list favorite things and places_
+#### _HTML Code for fan page of the band AnnenMayKantereit._
 
 ## Technologies Used
 
-* _Git Bash_
+* _HTML_
 * _VSCode_
 * _CSS_
 
 ## Description
 
-_Website that lists favorite and least favorite things, as well as favorite and least faorite places_
+_This project is a webpage dedicated to learning about AnnenMayKantereit, a German rock band from Cologne. The webpage provides information about the band, including a brief description, band members, popular songs, external links, tour dates for 2023, merchandise, and concert photos._
 
 ## Setup/Installation Requirements
 
-* _No requirements_
+* (WIP) _Clone the repository: git clone REPLACE_WITH_CLONE_URL_
+_Open the project in your preferred code editor._
+_Launch the index.html file in a web browser._
 
-_Download from GitHub. Used Windows to create_
+
 
 ## Known Bugs
 
-* _multiple files needing to be merged_
+* _There are currently no known bugs or issues with this project._
 
 ## License
 
-_For more information contact creator._
+_This project is not licensed. Feel free to explore, modify, and distribute the code as desired._
 
 Copyright (c) _2023_ _Richard Lemmond_
 
