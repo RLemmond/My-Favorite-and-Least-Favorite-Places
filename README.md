@@ -1,8 +1,8 @@
-# _Learning about AnnenMayKantereit_
+# _My Favorite Places_
 
 #### By _**Richard Lemmond**_
 
-#### _HTML Code for fan page of the band AnnenMayKantereit._
+#### _HTML Code for list of favorite and least favorite places._
 
 ## Technologies Used
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_This project is a webpage dedicated to learning about AnnenMayKantereit, a German rock band from Cologne. The webpage provides information about the band, including a brief description, band members, popular songs, external links, tour dates for 2023, merchandise, and concert photos._
+_This project is a webpage dedicated to favorite places to visit as well as least favorite places to be._
 
 ## Setup/Installation Requirements
 
