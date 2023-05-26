@@ -12,13 +12,13 @@
 
 ## Description
 
-_This project is a webpage dedicated to favorite places to visit as well as least favorite places to be._
+_This project is a WIP webpage dedicated to favorite places to visit as well as least favorite places to be._
 
 ## Setup/Installation Requirements
 
-* (WIP) _Clone the repository: git clone REPLACE_WITH_CLONE_URL_
-_Open the project in your preferred code editor._
-_Launch the index.html file in a web browser._
+* _Clone the repository: (https://github.com/RLemmond/My-First-Webpage2.git)_
+* _Open the project in your preferred code editor._
+* _Launch the index.html file in a web browser._
 
 
 
